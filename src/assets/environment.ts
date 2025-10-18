@@ -1,8 +1,9 @@
 export const environment = {
   production: false,
-  API_BASE_URL: 'http://127.0.0.1:5000/app/api',
+  API_BASE_URL: 'https://nousinventa.com/app/api',
   assetBasePathLogin : '', 
   assetBasePathHome : '', 
   isDevEnvironment : true
 };
+
 
